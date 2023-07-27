@@ -1,11 +1,6 @@
 /*
  * File name: ClocksDemo.java
  * Author :Lei Luo
- * Student Number:041068533
- * Course: CST8284_303
- * Assessment: Java assignment one
- * Date: July 7, 2023
- * Professor: Daniel Cormier
  * Purpose:to implement polymorphic behavior on using inheritance.*/
 
 package w23assignment2;
